@@ -1,32 +1,32 @@
 
-  body{
-        
-    
+  body{    background-color:  skyblue;
+    box-sizing: border-box; 
+       
  border: 4px solid blue;/* GROSOR DEL borde de la pagina */
 width: 99%;/*el ancho de la pagina*/
 }
 p{
-    background-image: linear-gradient(to right,#9400d3, #ff4500,#32cd32); /*color de toda la pagina para mesclar*/
-   border-color: powderblue;/*COLOR DEL BORDE DE LA PAGINA*/
+    background-image: linear-gradient(to right,#12d300, pink,); /*color de toda la pagina para mesclar*/
+   border-color: violet;/*COLOR DEL BORDE DE LA PAGINA*/
    font-weight: bold;/*PONER LA LETRA EN NEGRITA */
   } 
   
 
 #box{
-background-color: white;
-padding:20px;
+background-color: rgb(242, 255, 240);
+padding:50px;
 
 }
 
 
 h2{
-margin-bottom: 30px;
-padding-top: 20px;
+margin-bottom: 45px;
+padding-top: 30px;
 text-align: center;
-background-color: hotpink;
+background-color: palevioletred;
 }
 h3{
-    color: burlywood;/*color de la letra*/
+    color: red;/*color de la letra*/
     margin-bottom: 30px;
     padding-top: 20px;
     text-align: center;
@@ -47,7 +47,7 @@ background-color:maroon;
 border: 4px solid violet;
 font-size:24px;
 font-weight: bold;
-font-color:violet;
+font-color:yellow;
 font-style: normal;
 float: right;
 padding: 10px 30px 10px 30px;
@@ -70,7 +70,7 @@ padding: 10px 30px 10px 30px;
 padding: 60px 20px 10px 20px;
 border: 3px solid;
 font-size:18px;
-background-color:gray;
+background-color:yellow;
 color:black;
 font-weight: bold;
 font-style: italic;
@@ -80,7 +80,7 @@ font-style: italic;
  padding: 60px 20px 10px 20px;
 border: 3px solid;
 font-size:18px;
-background-color:blue;
+background-color:plum;
 color:black;
 font-weight: bold;
 font-style: italic;
